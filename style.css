@@ -81,6 +81,7 @@ footer {
 @media (max-width: 700px) {
   .container {
   max-width: 980px;
+  width: 800px;
   margin: 40px auto;
   background: #fff;
   padding: 40px;
